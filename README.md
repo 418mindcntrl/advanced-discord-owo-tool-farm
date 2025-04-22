@@ -1,22 +1,4 @@
-# ADVANCED DISCORD OWO TOOL FARM
 
-This is a community version and currently in progress
-
-Please report bugs and keep on track with our announcement!
-
-> `Advanced discord OwO selfbot` is currently in maintenance mode. Future updates focus on bug fixes and improvements rather than new features. Thank you for trusting and being with us throughout the 2-year journey.
->
-> If you have any question/suggestion, feel free to submit your idea to us.
-> 
-> Please report if you have any issue/bug/error while using, I will try my best to help with responsibility.
-
-
-```
->>> Captcha from owobot.com/captcha is now supported
-```
-
-> [!TIP]
-> **Check out this discussion: https://github.com/Kyou-Izumi/discord-owo-selfbot/discussions/45**
 
 ##  Requirement
 __Node.js Version:__ v22.11.0 and above
@@ -265,23 +247,3 @@ __-- Coming soon list --__
 ⬜ Application with UI support
 
 ⬜ Application with language support
-
-## Sparkling Soul
-
-We greatly appreciate your support and consideration! Your belief in the power of a star as a donation truly resonates with us. Each click represents not just a simple action, but a meaningful contribution towards our journey.
-
-Your stars serve as fuel for our spirits, igniting our passion and dedication to make a positive impact. With every milestone we achieve, we come closer to realizing our vision of creating a better non-profit endeavors.
-
-Your stars inspire us to keep pushing boundaries, overcome challenges, and bring about meaningful change.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Kyou-Izumi/advanced-discord-owo-tool-farm&type=Date)](https://star-history.com/#Kyou-Izumi/advanced-discord-owo-tool-farm&Date)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-As we are looking for translators to make the tool and instruction multi-language supports, please open a discussion with translator labels if you'd like to join in!
-
-Please make sure to update tests as appropriate.
-
